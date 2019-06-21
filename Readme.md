@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/CustomIndicator/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomIndicator/Default.aspx.vb))
 <!-- default file list end -->
 # How to use XtraGauges vector primitives to create a custom indicator
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1496/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to use Ellipse and Box shapes to draw a custom indicator for ASPxGauges.</p>
